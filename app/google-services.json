@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "323386630822",
+    "firebase_url": "https://musmancabs.firebaseio.com",
+    "project_id": "musmancabs",
+    "storage_bucket": "musmancabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323386630822:android:d935ee84a406d90a",
+        "android_client_info": {
+          "package_name": "com.musman.cabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323386630822-t0jnm3h4lsejs1oti594bmp61o547jm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musman.cabs",
+            "certificate_hash": "3d15ce21eb1fc285e74ca34c190a416fbbad04c9"
+          }
+        },
+        {
+          "client_id": "323386630822-2fjnbkvn3earquukaru430gb4asrnpq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwonHQ-lo9f_MBlNSH3yqvz8pxDQb8xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323386630822-2fjnbkvn3earquukaru430gb4asrnpq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323386630822:android:e340357658c2f3fb",
+        "android_client_info": {
+          "package_name": "com.musman.cabsDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323386630822-nj6dc6517fpgg22bj4j88bp8ctn9e5c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musman.cabsDriver",
+            "certificate_hash": "3d15ce21eb1fc285e74ca34c190a416fbbad04c9"
+          }
+        },
+        {
+          "client_id": "323386630822-ak0rg7nnqaeoos3m5jaevj0ra04n7o5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musman.cabsDriver",
+            "certificate_hash": "a25825cc1062d751d840f0d83985492b6aaaf44e"
+          }
+        },
+        {
+          "client_id": "323386630822-2fjnbkvn3earquukaru430gb4asrnpq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwonHQ-lo9f_MBlNSH3yqvz8pxDQb8xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323386630822-2fjnbkvn3earquukaru430gb4asrnpq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_TripHistory"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="Trip History" />
+        <item
+            android:id="@+id/nav_WayBill"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="Way Bill" />
+        <item
+            android:id="@+id/nav_changePass"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/nav_Settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_Signout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Sign Out" />
+    </group>
+</menu>
